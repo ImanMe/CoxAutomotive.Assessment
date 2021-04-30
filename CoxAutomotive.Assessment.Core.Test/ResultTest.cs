@@ -36,8 +36,6 @@ namespace CoxAutomotive.Assessment.Core.Test
         [Fact]
         public void ShouldGenerateHeaderFromRows()
         {
-            var deals = DealSeed.GetDeals();
-
             var sut = new Result();
 
             var rows = new List<string>
