@@ -1,0 +1,9 @@
+C:\Users\IMEMARPOUR\source\repos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\bin\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.deps.json
+C:\Users\IMEMARPOUR\source\repos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\bin\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.dll
+C:\Users\IMEMARPOUR\source\repos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\bin\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.pdb
+C:\Users\IMEMARPOUR\source\repos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.csprojAssemblyReference.cache
+C:\Users\IMEMARPOUR\source\repos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.AssemblyInfoInputs.cache
+C:\Users\IMEMARPOUR\source\repos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.AssemblyInfo.cs
+C:\Users\IMEMARPOUR\source\repos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.csproj.CoreCompileInputs.cache
+C:\Users\IMEMARPOUR\source\repos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.dll
+C:\Users\IMEMARPOUR\source\repos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.pdb

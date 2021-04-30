@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxEjOrVHHU5d0ZQ9/QR8EsTvtX6YlhAnkbw0birCkVpCVQyFqwTZ0PGUBfO2ul+8XoGShwyaWEpFnbcJJXZb+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IMEMARPOUR\\source\\repos\\CoxAutomotive.Assessment\\CoxAutomotive.Assessment.Core\\CoxAutomotive.Assessment.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.5\\microsoft.aspnetcore.http.features.5.0.5.nupkg.sha512",
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
