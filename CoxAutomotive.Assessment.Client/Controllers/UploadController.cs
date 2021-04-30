@@ -25,7 +25,7 @@ namespace CoxAutomotive.Assessment.Client.Controllers
 
                 if (!validation.IsValid) return BadRequest(validation.Message);
 
-                var result  = await _excelManager.Read(file);
+                var result  = await _excelManager.ReadAndMap(file);
 
                 return Ok(result);
             }

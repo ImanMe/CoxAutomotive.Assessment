@@ -11,7 +11,7 @@ namespace CoxAutomotive.Assessment.Logic.Services
 {
     public class ExcelManager : IExcelManager
     {
-        public async Task<Result> Read(IFormFile file)
+        public async Task<Result> ReadAndMap(IFormFile file)
         {
             var rows = await BreakCsvToRowsAsync(file);
 

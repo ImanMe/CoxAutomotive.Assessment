@@ -6,7 +6,7 @@ namespace CoxAutomotive.Assessment.Core.IServices
 {
     public interface IExcelManager
     {
-        Task<Result> Read(IFormFile file);
+        Task<Result> ReadAndMap(IFormFile file);
         Validation Validate(IFormFile file);
     }
 }
