@@ -1,0 +1,7 @@
+table {
+    width: 100%;
+  }
+
+  .table-responsive {
+    max-width: calc(100vw - 53px);
+  }

@@ -1,6 +1,20 @@
-<body>
-  <app-nav-menu></app-nav-menu>
-  <div class="container">
-    <router-outlet></router-outlet>
-  </div>
-</body>
+<app-nav-bar></app-nav-bar>
+<div class="container">
+    <div class="mb-3">
+        <label style="background-color: #ff4081;border-color: #ff4081;" class="btn btn-success btn-sm m-0 pull-right">
+            Upload CSV
+            <input style="display: none;" type="file" (change)="uploadFile($event)" placeholder="Upload file" accept=".csv" class="mb-2">
+        </label>
+    </div>
+    <div *ngIf="result && isDataDisplayed">
+        <div class="mb-3">
+            <app-best-selling-vehicle [mostSoldVehicle]="result.mostSoldVehicle"></app-best-selling-vehicle>
+        </div>
+        <div class="mb-2">
+            <app-data-table [deals]="result.deals"></app-data-table>
+        </div>
+    </div>
+    <div *ngIf="errorMessage">
+        <app-error [errorMessage]="errorMessage"></app-error>
+    </div>
+</div>
