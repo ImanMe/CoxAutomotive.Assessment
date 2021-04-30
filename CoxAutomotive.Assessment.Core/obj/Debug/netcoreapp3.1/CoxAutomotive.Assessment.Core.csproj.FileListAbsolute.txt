@@ -7,3 +7,12 @@ C:\Users\IMEMARPOUR\source\repos\CoxAutomotive.Assessment\CoxAutomotive.Assessme
 C:\Users\IMEMARPOUR\source\repos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.csproj.CoreCompileInputs.cache
 C:\Users\IMEMARPOUR\source\repos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.dll
 C:\Users\IMEMARPOUR\source\repos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.pdb
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\bin\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.deps.json
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\bin\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.dll
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\bin\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.pdb
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.csprojAssemblyReference.cache
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.AssemblyInfoInputs.cache
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.AssemblyInfo.cs
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.csproj.CoreCompileInputs.cache
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.dll
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Core\obj\Debug\netcoreapp3.1\CoxAutomotive.Assessment.Core.pdb

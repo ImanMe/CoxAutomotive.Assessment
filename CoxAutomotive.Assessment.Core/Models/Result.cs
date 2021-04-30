@@ -6,6 +6,7 @@ namespace CoxAutomotive.Assessment.Core.Models
 {
     public class Result
     {
+        private const string AcceptedExcelHeader = "DealNumber,CustomerName,DealershipName,Vehicle,Price,Date";
         public Result() { }
 
         public Result(IList<string> rows)
@@ -16,12 +17,11 @@ namespace CoxAutomotive.Assessment.Core.Models
             MostSoldVehicle = GetMostSoldVehicle(deals);
         }
 
-        private const string AcceptedExcelHeader = "DealNumber,CustomerName,DealershipName,Vehicle,Price,Date";
         public string MostSoldVehicle { get; set; }
         public IList<string> Headers { get; set; }
         public IList<Deal> Deals { get; set; }
 
-        public static string GetMostSoldVehicle(IList<Deal> vehicleSales)
+        public string GetMostSoldVehicle(IList<Deal> vehicleSales)
         {
             return vehicleSales.GroupBy(v => v.Vehicle)
                 .OrderByDescending(s => s.Count())

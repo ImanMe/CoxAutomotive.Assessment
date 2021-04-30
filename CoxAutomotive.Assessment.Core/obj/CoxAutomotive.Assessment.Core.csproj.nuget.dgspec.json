@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IMEMARPOUR\\source\\repos\\CoxAutomotive.Assessment\\CoxAutomotive.Assessment.Core\\CoxAutomotive.Assessment.Core.csproj": {}
+    "C:\\DTCRepos\\CoxAutomotive.Assessment\\CoxAutomotive.Assessment.Core\\CoxAutomotive.Assessment.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IMEMARPOUR\\source\\repos\\CoxAutomotive.Assessment\\CoxAutomotive.Assessment.Core\\CoxAutomotive.Assessment.Core.csproj": {
+    "C:\\DTCRepos\\CoxAutomotive.Assessment\\CoxAutomotive.Assessment.Core\\CoxAutomotive.Assessment.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IMEMARPOUR\\source\\repos\\CoxAutomotive.Assessment\\CoxAutomotive.Assessment.Core\\CoxAutomotive.Assessment.Core.csproj",
+        "projectUniqueName": "C:\\DTCRepos\\CoxAutomotive.Assessment\\CoxAutomotive.Assessment.Core\\CoxAutomotive.Assessment.Core.csproj",
         "projectName": "CoxAutomotive.Assessment.Core",
-        "projectPath": "C:\\Users\\IMEMARPOUR\\source\\repos\\CoxAutomotive.Assessment\\CoxAutomotive.Assessment.Core\\CoxAutomotive.Assessment.Core.csproj",
+        "projectPath": "C:\\DTCRepos\\CoxAutomotive.Assessment\\CoxAutomotive.Assessment.Core\\CoxAutomotive.Assessment.Core.csproj",
         "packagesPath": "C:\\Users\\IMEMARPOUR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IMEMARPOUR\\source\\repos\\CoxAutomotive.Assessment\\CoxAutomotive.Assessment.Core\\obj\\",
+        "outputPath": "C:\\DTCRepos\\CoxAutomotive.Assessment\\CoxAutomotive.Assessment.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IMEMARPOUR\\AppData\\Roaming\\NuGet\\NuGet.Config",
