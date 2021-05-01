@@ -7,6 +7,10 @@ Open command-line and navigate to ClientApp --> CoxAutomotive.Assessment\CoxAuto
 
 `cd ClientApp`
 
+Install npm packages using npm install 
+
+`npm install`
+
 Start the app using npm start (Do not use `ng serve`)
 
 `npm start`
