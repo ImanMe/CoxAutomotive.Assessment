@@ -1,0 +1,12 @@
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Logic\bin\Release\netcoreapp3.1\CoxAutomotive.Assessment.Logic.deps.json
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Logic\bin\Release\netcoreapp3.1\CoxAutomotive.Assessment.Logic.dll
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Logic\bin\Release\netcoreapp3.1\CoxAutomotive.Assessment.Logic.pdb
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Logic\bin\Release\netcoreapp3.1\CoxAutomotive.Assessment.Core.dll
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Logic\bin\Release\netcoreapp3.1\CoxAutomotive.Assessment.Core.pdb
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Logic\obj\Release\netcoreapp3.1\CoxAutomotive.Assessment.Logic.csprojAssemblyReference.cache
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Logic\obj\Release\netcoreapp3.1\CoxAutomotive.Assessment.Logic.AssemblyInfoInputs.cache
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Logic\obj\Release\netcoreapp3.1\CoxAutomotive.Assessment.Logic.AssemblyInfo.cs
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Logic\obj\Release\netcoreapp3.1\CoxAutomotive.Assessment.Logic.csproj.CoreCompileInputs.cache
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Logic\obj\Release\netcoreapp3.1\CoxAutomotive.Assessment.Logic.csproj.CopyComplete
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Logic\obj\Release\netcoreapp3.1\CoxAutomotive.Assessment.Logic.dll
+C:\DTCRepos\CoxAutomotive.Assessment\CoxAutomotive.Assessment.Logic\obj\Release\netcoreapp3.1\CoxAutomotive.Assessment.Logic.pdb

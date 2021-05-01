@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
-using CoxAutomotive.Assessment.Core.Models;
 using Microsoft.AspNetCore.Http;
+using CoxAutomotive.Assessment.Core.Models;
 
 namespace CoxAutomotive.Assessment.Core.IServices
 {

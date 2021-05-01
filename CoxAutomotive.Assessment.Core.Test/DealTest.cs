@@ -1,13 +1,13 @@
 ﻿using System.Collections.Generic;
-using CoxAutomotive.Assessment.Core.Models;
 using Xunit;
+using CoxAutomotive.Assessment.Core.Models;
 
 namespace CoxAutomotive.Assessment.Core.Test
 {
     public class DealTest
     {
         [Fact]
-        public void ShouldGetPriceFromRow()
+        public void ShouldGetAndFormatPriceFromRow()
         {
             var sut = new Deal();
 

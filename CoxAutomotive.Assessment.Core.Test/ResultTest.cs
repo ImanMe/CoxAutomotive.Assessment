@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
+using Xunit;
 using CoxAutomotive.Assessment.Core.Models;
 using CoxAutomotive.Assessment.Core.Test.Seeds;
-using Xunit;
 
 namespace CoxAutomotive.Assessment.Core.Test
 {
