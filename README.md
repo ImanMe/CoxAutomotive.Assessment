@@ -15,6 +15,6 @@ Run project with visual studio
 
 Referesh the browser
 
-[Live Demok](https://coxautomotiveassessmentclient20210430204137.azurewebsites.net/)
+[Live Demo](https://coxautomotiveassessmentclient20210430204137.azurewebsites.net/)
 
 
