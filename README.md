@@ -14,3 +14,7 @@ Start the app using npm start (Do not use `ng serve`)
 Run project with visual studio 
 
 Referesh the browser
+
+[Live Demok](https://coxautomotiveassessmentclient20210430204137.azurewebsites.net/)
+
+
